@@ -12,8 +12,7 @@
     </dependency>
   </dependencies>
    <build>
-    <pluginManagement>
-      <plugins>
+	<plugins>
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
@@ -22,6 +21,5 @@
         <plugin>
         </plugin>
         </plugins>
-        </pluginManagement>
         </build>
 </project>
